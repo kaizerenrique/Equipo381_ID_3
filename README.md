@@ -8,4 +8,5 @@ Idea nro 3 Equipo 381
 * [Juliandl88](https://github.com/Juliandl88)
 * [abrilhmux](https://github.com/abrilhmux)
 * [frankcdlc](https://github.com/frankcdlc)
+* [Pikuzt](https://github.com/Pikuzt)
 * [kaizerenrique](https://github.com/kaizerenrique)
