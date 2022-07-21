@@ -7,4 +7,5 @@ Idea nro 3 Equipo 381
 * [flopezpondal](https://github.com/flopezpondal)
 * [Juliandl88](https://github.com/Juliandl88)
 * [abrilhmux](https://github.com/abrilhmux)
+* [frankcdlc](https://github.com/frankcdlc)
 * [kaizerenrique](https://github.com/kaizerenrique)
